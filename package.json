@@ -1,0 +1,18 @@
+{
+  "name": "@thecodesmithy/eslint-config-common-typescript",
+  "version": "1.0.0",
+  "description": "Shareable ESLint configuration for TypeScript",
+  "main": "src/index.js",
+  "author": {
+    "name": "Paul Aldred-Bann",
+    "email": "pab@thecodesmithy.com",
+    "url": "https://www.thecodesmithy.com"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@thecodesmithy/eslint-config-common": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0"
+  }
+}
